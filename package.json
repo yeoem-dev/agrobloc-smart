@@ -1,0 +1,17 @@
+{
+  "name": "agrobloc-smart",
+  "version": "1.0.0",
+  "description": "API pour l'application Agrobloc afin de communiquer avec les smarts contracts de commandes et de transactions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yeoem-dev",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethereumjs-util": "^7.1.5",
+    "express": "^4.18.2",
+    "web3": "^4.0.2"
+  }
+}
